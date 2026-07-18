@@ -43,13 +43,13 @@ NLP • SpaCy • OpenAI API (Learning)
 
 ### Tools
 
-Git • GitHub • VS Code • IntelliJ IDEA • Postman • Cisco Packet Tracer • WordPress
+Git • GitHub • Cisco Packet Tracer • WordPress
 
 ---
 
 ## GitHub Stats
 
-<!-- Replace 'rahulizthe' if your username changes -->
+<!-- Replace 'rahulizthe' if username changes -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark)
 
