@@ -79,9 +79,9 @@ Git • GitHub • Cisco Packet Tracer • WordPress
 
 ## Currently Learning
 
-- Spring Boot
+- Web development
 - Data Structures & Algorithms
-- React.js
+- java
 - Machine Learning
 - Artificial Intelligence
 - System Design
@@ -98,7 +98,7 @@ To become a Software Development Engineer by building impactful products, contri
 
 **Email:** rahulrawat241371@gmail.com
 
-**LinkedIn:** https://linkedin.com/in/rahul-rawat-7633a3305
+**LinkedIn:** https://linkedin.com/in/rahulizthe/
 
 **GitHub:** https://github.com/rahulizthe
 
