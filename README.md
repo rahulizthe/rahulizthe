@@ -93,6 +93,5 @@ A smart tourism crowd management platform with analytics dashboard, heat maps, l
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulizthe&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark"/>
 </p>
