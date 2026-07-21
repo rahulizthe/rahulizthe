@@ -1,105 +1,113 @@
-# Rahul Rawat
+# Hi, I'm Rahul Rawat 
 
-### Java Developer | Full Stack Developer 
+### Java Backend Developer | Full Stack Developer | AI Enthusiast
 
-Passionate about building scalable web applications and AI-powered solutions. I enjoy solving real-world problems through software development and continuously learning modern technologies. Currently focused on Java, Spring Boot, React, and Artificial Intelligence.
+I'm a B.Tech Information Technology student passionate about building scalable backend systems, modern web applications, and AI-powered software.
+
+Currently focused on Java, Spring Boot, React, Data Structures & Algorithms, and Machine Learning while continuously improving my problem-solving skills.
 
 ---
 
 ## About Me
 
-- B.Tech Information Technology student at Dr. A.P.J. Abdul Kalam Technical University (AKTU)
-- Currently working on **AI Interviewer – Resume-Based Interview & ATS Screener**
-- Currently learning Spring Boot, React.js, Data Structures & Algorithms, System Design, and Machine Learning
-- Looking to collaborate on Java, Spring Boot, React, AI, and Open Source projects
-- Looking for guidance in scalable backend architecture, AI integration, and cloud deployment
-- Ask me about Java, OOP, Git, GitHub, REST APIs, MongoDB, Spring Boot, React, and basic AI/NLP
-- Email: **rahulrawat241371@gmail.com**
-- Fun Fact: I enjoy building real-world projects more than simply following tutorials.
+- B.Tech Information Technology Student
+- Java Backend & Full Stack Developer
+- Currently learning Spring Boot, React, System Design, DSA & Machine Learning
+- Building AI-powered applications and real-world software projects
+- Interested in Backend Development, AI, Cloud Computing & Open Source
+- I enjoy turning ideas into practical software solutions.
 
 ---
 
-## Languages and Tools
+## 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-Java • Python • C • JavaScript • SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
 
-HTML5 • CSS3 • JavaScript • React.js
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
-Spring Boot • REST APIs
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ### Database
 
-MySQL • MongoDB
-
-### AI & Machine Learning
-
-NLP • SpaCy • OpenAI API (Learning)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
 
-Git • GitHub • Cisco Packet Tracer • WordPress
-
----
-
-## GitHub Stats
-
-<!-- Replace 'rahulizthe' if username changes -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulizthe&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulizthe&layout=compact&theme=github_dark)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| AI Interviewer | AI-powered platform that parses resumes, generates interview questions, provides ATS scoring, and evaluates candidate responses. | React.js, Spring Boot, Python, NLP, SpaCy, MySQL |
-| Smart Crowd Controlling & Management System | Crowd management system with live monitoring, heat maps, analytics dashboard, and visitor guidance for tourist locations. | React.js, Spring Boot, JavaScript, MySQL, Google Maps API, Chart.js |
+### AI Interviewer
+
+AI-powered interview platform that analyzes resumes, generates personalized interview questions, performs ATS scoring, and evaluates candidate responses using NLP.
+
+**Tech:** Java • Spring Boot • React • Python • NLP • MySQL
 
 ---
 
-## Certifications
+###  Smart Crowd Management System
 
-- Python Basics — CodeWithHarry
-- Networking Essentials — Cisco Networking Academy
-- MongoDB — ICT Academy
-- Generative AI Literacy — FutureSkills Prime
+A smart tourism crowd management platform with analytics dashboard, heat maps, live monitoring, and visitor guidance.
+
+**Tech:** Java • Spring Boot • React • MySQL
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulizthe&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulizthe&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
 ## Currently Learning
 
-- Web development
+- Spring Boot
+- React.js
 - Data Structures & Algorithms
-- java
+- System Design
 - Machine Learning
 - Artificial Intelligence
-- System Design
-
----
-
-## Career Goal
-
-To become a Software Development Engineer by building impactful products, contributing to open-source projects, and continuously improving my software engineering and problem-solving skills.
 
 ---
 
 ## Connect With Me
 
-**Email:** rahulrawat241371@gmail.com
+-  **Email:** rahulrawat241371@gmail.com
+-  **LinkedIn:** https://linkedin.com/in/rahulizthe
+-  **GitHub:** https://github.com/rahulizthe
+-  **LeetCode:** https://leetcode.com/u/rahulizthe_/
 
-**LinkedIn:** https://linkedin.com/in/rahulizthe/
+---
 
-**GitHub:** https://github.com/rahulizthe
-
-**LeetCode:** https://leetcode.com/u/rahulizthe_/
+> *"Code. Learn. Build. Improve. Repeat."*
