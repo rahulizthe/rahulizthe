@@ -71,11 +71,6 @@ A smart tourism crowd management platform with analytics dashboard, heat maps, l
 
 ---
 
-##  GitHub Stats
-
-![Snake animation](https://raw.githubusercontent.com/rahulizthe/rahulizthe/output/github-contribution-grid-snake.svg)
----
-
 ## Currently Learning
 
 - Spring Boot
