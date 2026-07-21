@@ -90,8 +90,3 @@ A smart tourism crowd management platform with analytics dashboard, heat maps, l
 -  **LeetCode:** https://leetcode.com/u/rahulizthe_/
 
 ---
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulizthe&show_icons=true&theme=github_dark"/>
-</p>
