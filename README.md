@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Rawat 
 
-### Java Backend Developer | Full Stack Developer | AI Enthusiast
+### Java Developer | Full Stack Developer | AI Enthusiast
 
 I'm a B.Tech Information Technology student passionate about building scalable backend systems, modern web applications, and AI-powered software.
 
