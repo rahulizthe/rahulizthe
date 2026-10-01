@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rahul Rawat </h1>
-<h3 align="center">Software Engineer | Java & Full Stack Developer | AI & NLP Enthusiast</h3>
+<h3 align="center">Software Engineer | Java & Full Stack Developer | AI & NLP </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rahulizthe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
