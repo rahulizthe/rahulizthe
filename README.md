@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rahul Rawat 👋</h1>
+<h1 align="center">Hi there, I'm Rahul Rawat </h1>
 <h3 align="center">Software Engineer | Java & Full Stack Developer | AI & NLP Enthusiast</h3>
 
 <p align="center">
@@ -11,11 +11,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Information Technology Undergrad** at AKTU (Class of 2027).
-* ⚙️ **Building scalable systems:** Experienced in designing backend architectures, REST APIs, and microservices using Java, Spring Boot, and Node.js.
-* 🤖 **AI & NLP Focus:** Developing automated, AI-powered applications utilizing Python and SpaCy.
-* 📱 **Cross-Platform:** Crafting intuitive user interfaces and mobile experiences with React.js and Flutter.
-* 🎯 **Currently focused on:** System Design, Advanced Data Structures & Algorithms (GATE 2027 prep), and optimizing database queries for high-concurrency environments.
+*  **Building scalable systems:** Experienced in designing backend architectures, REST APIs, and microservices using Java, Spring Boot, and Node.js.
+*  **AI & NLP Focus:** Developing automated, AI-powered applications utilizing Python and SpaCy.
+*  **Cross-Platform:** Crafting intuitive user interfaces and mobile experiences with React.js and Flutter.
+*  **Currently focused on:** System Design, Advanced Data Structures & Algorithms (GATE 2027 prep), and optimizing database queries for high-concurrency environments.
 
 ---
 
@@ -53,9 +52,3 @@ A low-latency tourism crowd management platform featuring an analytics dashboard
 `Java` `Spring Boot` `React` `MySQL`
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulizthe&show_icons=true&theme=radium" alt="Rahul's GitHub Stats" />
-</p>
